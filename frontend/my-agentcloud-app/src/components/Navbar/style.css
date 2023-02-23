@@ -1,0 +1,13 @@
+.Nev{
+    width: 100%;
+    height: 4rem;
+    background-color: #354259;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.LinkNav{
+    color: white;
+}

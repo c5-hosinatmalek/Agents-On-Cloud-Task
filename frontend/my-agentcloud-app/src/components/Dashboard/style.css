@@ -1,0 +1,42 @@
+.item-img{
+height: 100px;
+width: 100%;
+}
+
+.item-img:hover{
+    cursor:pointer;
+   
+    }
+
+    .Contdash{
+        background-color: #C2DED1;
+        height:85vh;
+        padding: 10px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        
+    }
+
+    .Cart{
+    border: solid 1px rgb(92, 87, 87);
+    border-radius: 3px;
+       width: 170px;
+       height: fit-content    ;
+       margin: 0 1rem;
+    }
+    .Cart p{
+        margin:0 3px ;
+    }
+    .contButton{
+
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .contButton button{
+        padding: 0.3rem 0.5rem;
+        margin:0 3px 3px 3px;
+
+    }
